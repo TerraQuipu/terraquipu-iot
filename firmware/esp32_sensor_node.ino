@@ -89,3 +89,4 @@ void loop() {
   // Esperar 15 segundos entre lecturas (en producción usar Deep Sleep)
   delay(15000);
 }
+
